@@ -1,0 +1,425 @@
+@media screen and (max-width: 376px) {
+  .navigation {
+    display: none;
+  }
+  .burger {
+    display: block;
+    /* margin-left: 176px; */
+  }
+  .header-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .header {
+    padding-inline: 20px;
+  }
+  .section-1-div {
+    padding-inline: 20px;
+    max-width: 335px;
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  .section-1 {
+    flex-direction: column-reverse;
+    height: 100%;
+  }
+  .img-div {
+    margin-inline: 20px;
+    max-width: 335px;
+    width: 100%;
+  }
+  .logo-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 200px;
+    width: 100%;
+  }
+  .logo2:nth-child(2) {
+    margin: 50px 0;
+  }
+  .logo2:nth-child(4) {
+    margin: 50px 0;
+  }
+  .logo2:nth-child(5) {
+    margin-bottom: 50px;
+  }
+  .section-2-main-div2 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .img-div-2 {
+    max-width: 335px;
+    width: 100%;
+    margin-inline: 20px;
+  }
+  .partners-text {
+    max-width: 335px;
+    width: 100%;
+    margin-inline: 20px;
+    margin-top: 30px;
+  }
+  .partners-h2 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .section-2-main-div3 {
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+  }
+  .img-div-3 {
+    max-width: 335px;
+    width: 100%;
+    margin-inline: 20px;
+  }
+  .partners-text2 {
+    max-width: 335px;
+    width: 100%;
+    margin-inline: 20px;
+    margin-top: 30px;
+  }
+  .team-div {
+    justify-content: center;
+  }
+  .card:nth-child(2) {
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+  .card:nth-child(3) {
+    margin-bottom: 35px;
+  }
+  .footer-div {
+    flex-direction: column;
+  }
+  .footer-text {
+    margin-top: 20px;
+  }
+  .portfoli-div {
+    max-width: 100%;
+  }
+  .portfolio-img {
+    display: flex;
+    flex-direction: column;
+    max-width: 335px;
+    width: 100%;}
+
+}
+@media screen and (max-width: 481px) {
+  .navigation {
+    display: none;
+  }
+  .burger {
+    display: block;
+  }
+  .header-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .header {
+    padding-inline: 20px;
+  }
+  .section-1-div {
+    padding-inline: 20px;
+    max-width: 335px;
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  .section-1 {
+    flex-direction: column-reverse;
+    height: 100%;
+  }
+  .img-div {
+    margin-inline: 20px;
+    max-width: 335px;
+    width: 100%;
+  }
+  .logo-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 200px;
+    width: 100%;
+  }
+  .logo2:nth-child(2) {
+    margin: 50px 0;
+  }
+  .logo2:nth-child(4) {
+    margin: 50px 0;
+  }
+  .logo2:nth-child(5) {
+    margin-bottom: 50px;
+  }
+  .section-2-main-div2 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .img-div-2 {
+    max-width: 335px;
+    width: 100%;
+    margin-inline: 20px;
+  }
+  .partners-text {
+    max-width: 335px;
+    width: 100%;
+    margin-inline: 20px;
+    margin-top: 30px;
+  }
+  .partners-h2 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .section-2-main-div3 {
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+  }
+  .img-div-3 {
+    max-width: 335px;
+    width: 100%;
+    margin-inline: 20px;
+  }
+  .partners-text2 {
+    max-width: 335px;
+    width: 100%;
+    margin-inline: 20px;
+    margin-top: 30px;
+  }
+  .team-div {
+    justify-content: center;
+  }
+  .card:nth-child(2) {
+    margin-top: 35px;
+    margin-bottom: 35px;
+  }
+  .card:nth-child(3) {
+    margin-bottom: 35px;
+  }
+  .footer-div {
+    flex-direction: column;
+  }
+  .footer-text {
+    margin-top: 20px;
+}
+}
+
+@media screen and (max-width: 769px) {
+  .header-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .header {
+    padding-inline: 20px;
+  }
+  .section-1-div {
+    padding-inline: 20px;
+    max-width: 400px;
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  .section-1 {
+    flex-direction: column-reverse;
+    height: 100%;
+  }
+  .img-div {
+    margin-inline: 20px;
+    max-width: 400px;
+    width: 100%;
+  }
+  .logo-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 200px;
+    width: 100%;
+  }
+  .logo2:nth-child(2) {
+    margin: 50px 0;
+  }
+  .logo2:nth-child(4) {
+    margin: 50px 0;
+  }
+  .logo2:nth-child(5) {
+    margin-bottom: 50px;
+  }
+  .section-2-main-div2 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .img-div-2 {
+    max-width: 400px;
+    width: 100%;
+    margin-inline: 20px;
+  }
+  .partners-text {
+    max-width: 400px;
+    width: 100%;
+    margin-inline: 20px;
+    margin-top: 30px;
+  }
+  .partners-h2 {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .section-2-main-div3 {
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+  }
+  .img-div-3 {
+    max-width: 400px;
+    width: 100%;
+    margin-inline: 20px;
+  }
+  .partners-text2 {
+    max-width: 400px;
+    width: 100%;
+    margin-inline: 20px;
+    margin-top: 30px;
+  }
+  .team-div {
+    justify-content: center;
+  }
+  .card:nth-child(1) {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+  }
+  .card:nth-child(3) {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  .card:nth-child(2) {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+  }
+  .card:nth-child(4) {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  .footer-div {
+    flex-direction: column;
+  }
+  .footer-text {
+    margin-top: 20px;
+  }
+}
+@media screen and (max-width: 1025px) {
+    .portfolio-div{
+        justify-content: center;
+    }
+  .team-div {
+    width: 70%;
+    align-items: center;
+  }
+  .card:nth-child(4) {
+    margin-top: 20px;
+  }
+  .card:nth-child(3) {
+    margin-top: 20px;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .portfolio-img:nth-child(3) {
+    margin: 55px 0;
+  }
+  .portfolio-img:nth-child(4) {
+    margin: 55px 0;
+  }
+  .portfolio-img:nth-child(7) {
+    margin-top: 55px;
+  }
+  /* .portfolio-img:nth-child(8) {
+    margin-top: 55px;
+  } */
+  .portfolio-button {
+    margin-top: 60px;
+  }
+}
+@media screen and (min-width: 1920px) {
+  .portfolio-img:nth-child(3) {
+    margin: 55px 0;
+  }
+  .portfolio-img:nth-child(4) {
+    margin: 55px 0;
+  }
+  .portfolio-img:nth-child(7) {
+    margin-top: 55px;
+  }
+  .portfolio-img:nth-child(8) {
+    margin-top: 55px;
+  }
+  .portfolio-button {
+    margin-top: 60px;
+  }
+}
+@media screen and (min-width: 1024px) {
+    /* .portfolio-div{
+        justify-content: center;
+    } */
+    .portfolio-img:nth-child(1) {
+        margin: 55px 0;
+      }
+      .portfolio-img:nth-child(3) {
+        margin: 55px 0;
+      }
+      .portfolio-img:nth-child(5) {
+        margin: 55px 0;
+      }
+      .portfolio-img:nth-child(7) {
+        margin: 55px 0;
+      }
+      .portfolio-button {
+        margin-top: 60px;
+      }
+
+  }
+  @media screen and (min-width: 768px) {
+    /* .portfolio-div{
+        justify-content: center;
+    } */
+    .portfolio-img:nth-child(1) {
+        margin: 55px 0;
+      }
+      .portfolio-img:nth-child(3) {
+        margin: 55px 0;
+      }
+      .portfolio-img:nth-child(5) {
+        margin: 55px 0;
+      }
+      .portfolio-img:nth-child(7) {
+        margin: 55px 0;
+      }
+      .portfolio-button {
+        margin-top: 60px;
+      }
+
+  }
+  @media screen and (min-width: 375px) {
+    /* .portfolio-div{
+        justify-content: center;
+    } */
+    .portfolio-img:nth-child(1) {
+        margin: 55px 0;
+      }
+      .portfolio-img:nth-child(3) {
+        margin: 55px 0;
+      }
+      .portfolio-img:nth-child(5) {
+        margin: 55px 0;
+      }
+      .portfolio-img:nth-child(7) {
+        margin: 55px 0;
+      }
+      .portfolio-button {
+        margin-top: 60px;
+      }
+    }
